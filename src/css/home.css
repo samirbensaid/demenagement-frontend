@@ -1,0 +1,11 @@
+#list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: space-evenly;
+    vertical-align: baseline;
+}
+
+.home-container{
+    flex-basis: 25%;
+}
